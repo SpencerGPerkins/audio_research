@@ -9,3 +9,6 @@
 ### Further, I have included some sample figures. 
 
 - Spencer 
+
+
+UrbanSound8K dataset: J. Salamon, C. Jacoby and J. P. Bello, "A Dataset and Taxonomy for Urban Sound Research", 22nd ACM International Conference on Multimedia, Orlando USA, Nov. 2014.
